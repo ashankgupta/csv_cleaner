@@ -1,8 +1,8 @@
-# 📘 CSV → Clean Excel Converter (Frontend Only)
+# CSV → Clean Excel Converter (Frontend Only)
 
 **CSV Cleaner** is a fully frontend web application that allows you to **upload a CSV file**, filter specific columns, and download a **cleaned, formatted Excel file** — all directly in the browser. No backend, no server, no setup required.  
 
-## 🚀 Features
+## Features
 
 - ✅ **Frontend-only**: Runs completely in the browser, offline-friendly  
 - 📂 **Drag & Drop CSV Upload** or click to select  
@@ -14,7 +14,7 @@
 - 📱 **Mobile-friendly**  
 - 🏃 Works instantly without any backend  
 
-## 📌 Columns Filtered
+## Columns Filtered
 
 The app keeps only these columns from your CSV:
 
@@ -26,14 +26,14 @@ The app keeps only these columns from your CSV:
 - Completed  
 - Course Grade  
 
-## 💻 How to Use
+## How to Use
 
 1. Open `index.html` in a modern browser (Chrome, Edge, Firefox).  
 2. Drag & drop your CSV file into the upload box, or click to select it.  
 3. Click **🧹 Clean & Convert**.  
 4. Download your cleaned Excel file instantly.  
 
-## 🛠 Folder Structure
+## Folder Structure
 ```bash
 csv-cleaner/
 │
@@ -43,7 +43,7 @@ csv-cleaner/
 └── README.md # Project documentation
 ```
 
-## 🎨 Tech Stack
+## Tech Stack
 
 - HTML5 + CSS3  
 - TailwindCSS (for modern UI)  
@@ -51,7 +51,7 @@ csv-cleaner/
 - [SheetJS (XLSX)](https://github.com/SheetJS/sheetjs)  
 - [PapaParse](https://www.papaparse.com/)  
 
-## 🌐 Deployment (Optional)
+## Deployment (Optional)
 
 You can host this on **GitHub Pages** or any static hosting platform:
 
@@ -60,6 +60,6 @@ You can host this on **GitHub Pages** or any static hosting platform:
 3. Select `main` branch → `/root`.
 4. Your app will be live at:
 
-## 📜 License
+## License
 
 MIT License — Free to use and modify.
