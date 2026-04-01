@@ -4,15 +4,15 @@
 
 ## Features
 
-- ✅ **Frontend-only**: Runs completely in the browser, offline-friendly  
-- 📂 **Drag & Drop CSV Upload** or click to select  
-- 🖊 **Excel Styling**:
+- **Frontend-only**: Runs completely in the browser, offline-friendly  
+- **Drag & Drop CSV Upload** or click to select  
+- **Excel Styling**:
   - Headers bold & center-aligned  
   - Data rows center-aligned  
   - Auto column width  
-- 💎 Modern **TailwindCSS UI**  
-- 📱 **Mobile-friendly**  
-- 🏃 Works instantly without any backend  
+- Modern **TailwindCSS UI**  
+- **Mobile-friendly**  
+- Works instantly without any backend  
 
 ## Columns Filtered
 
